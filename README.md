@@ -4,7 +4,7 @@
 
 * Goal: do the lowest amount of manual work to get a new maching up and running with my config
 
-- Save projects folder
+- Save projects folder (ignore node_modules & other stuff)
 - Save .config files
 - Save important keys
 - Things installed with apt
